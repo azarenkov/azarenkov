@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Azarenkov" target="_blank">𝔸𝕝𝕖𝕩𝕖𝕪</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Rust developer and Software Engineering student</h3>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azarenkov&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azarenkov&theme=2077)

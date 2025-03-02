@@ -3,7 +3,7 @@ ABOUT ME🌐
 - Hi everyone👋🏽
 - My name is Alexey and I'm Rust and iOS developer👨🏽‍💻
 
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/2077/0-profile-details.svg)
+![](https://raw.githubusercontent.com/azarenkov/github-profile-summary-cards-example/master/profile-summary-card-output/2077/0-profile-details.svg)
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=blue)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)

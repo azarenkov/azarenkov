@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Azarenkov" target="_blank">𝔸𝕝𝕖𝕩𝕖𝕪</a> 
 <h3 align="center">Rust developer and Software Engineering student</h3>
 
-![Profile Details](https://raw.githubusercontent.com/Azarenkov/Azarenkov/main/profile-summary-card-output/2077/0-profile-details.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Azarenkov/Azarenkov/main/profile-summary-card-output/2077/1-most-used-languages.svg)
-![Productive Time](https://raw.githubusercontent.com/Azarenkov/Azarenkov/main/profile-summary-card-output/2077/4-productive-time.svg)
+![](https://raw.githubusercontent.com/Azarenkov/Azarenkov/main/profile-summary-card-output/2077/0-profile-details.svg)
+![](https://raw.githubusercontent.com/Azarenkov/Azarenkov/main/profile-summary-card-output/2077/1-most-used-languages.svg)
+![](https://raw.githubusercontent.com/Azarenkov/Azarenkov/main/profile-summary-card-output/2077/4-productive-time.svg)
 ![](https://raw.githubusercontent.com/Azarenkov/Azarenkov/main/profile-summary-card-output/2077/0-profile-details.svg)
 
 # Stack

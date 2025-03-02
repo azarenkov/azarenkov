@@ -4,6 +4,7 @@
 ![Profile Details](https://raw.githubusercontent.com/Azarenkov/Azarenkov/main/profile-summary-card-output/2077/0-profile-details.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/Azarenkov/Azarenkov/main/profile-summary-card-output/2077/1-most-used-languages.svg)
 ![Productive Time](https://raw.githubusercontent.com/Azarenkov/Azarenkov/main/profile-summary-card-output/2077/4-productive-time.svg)
+![](https://raw.githubusercontent.com/Azarenkov/Azarenkov/main/profile-summary-card-output/2077/0-profile-details.svg)
 
 # Stack
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=blue)

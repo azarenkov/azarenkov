@@ -17,4 +17,4 @@
 
 # Contacts
 - [Alexey Azarenkov](https://t.me/azarenkov_alexey) — Telegram
-- azarenkov20141@icloud.com - Email
+- azarenkov20141@icloud.com — Email

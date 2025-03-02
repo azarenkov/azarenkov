@@ -1,7 +1,5 @@
-ABOUT ME🌐
-
-- Hi everyone👋🏽
-- My name is Alexey and I'm Rust and iOS developer👨🏽‍💻
+<h1 align="center">Hi there, I'm <a href="https://github.com/Azarenkov" target="_blank">Alexey</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azarenkov&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azarenkov&theme=2077)

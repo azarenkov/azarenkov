@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Azarenkov" target="_blank">𝔸𝕝𝕖𝕩𝕖𝕪</a> 
 <h3 align="center">Rust developer and Software Engineering student</h3>
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/2077/0-profile-details.svg)]
+[![](https://raw.githubusercontent.com/azarenkov/github-profile-summary-cards-example/master/profile-summary-card-output/2077/0-profile-details.svg)]
 
 # Stack
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=blue)

@@ -3,10 +3,11 @@ ABOUT ME🌐
 - Hi everyone👋🏽
 - My name is Alexey and I'm Rust and iOS developer👨🏽‍💻
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azarenkov&theme=buefy)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azarenkov&theme=buefy)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=azarenkov&theme=buefy)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azarenkov&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azarenkov&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=azarenkov&theme=2077)
 
+# Stack
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=blue)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)

@@ -3,8 +3,7 @@
 
 ![](https://raw.githubusercontent.com/Azarenkov/Azarenkov/main/profile-summary-card-output/2077/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/Azarenkov/Azarenkov/main/profile-summary-card-output/2077/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/Azarenkov/Azarenkov/main/profile-summary-card-output/2077/4-productive-time.svg)
-![](https://raw.githubusercontent.com/Azarenkov/Azarenkov/main/profile-summary-card-output/2077/0-profile-details.svg)
+![](https://raw.githubusercontent.com/Azarenkov/Azarenkov/main/profile-summary-card-output/2077/3-stats.svg)
 
 # Stack
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=blue)

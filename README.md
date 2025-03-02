@@ -16,4 +16,5 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 # Contacts
-- [Alexey Azarenkov](https://t.me/azarenkov_alexey) — Rust Developer
+- [Alexey Azarenkov](https://t.me/azarenkov_alexey) — Telegram
+- azarenkov20141@icloud.com - Email

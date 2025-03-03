@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Azarenkov" target="_blank">𝔸𝕝𝕖𝕩𝕖𝕪</a> 
 <h3 align="center">Rust developer and Software Engineering student</h3>
 
-<center>![](https://raw.githubusercontent.com/Azarenkov/Azarenkov/main/profile-summary-card-output/2077/0-profile-details.svg)</center>
+![](https://raw.githubusercontent.com/Azarenkov/Azarenkov/main/profile-summary-card-output/2077/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/Azarenkov/Azarenkov/main/profile-summary-card-output/2077/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/Azarenkov/Azarenkov/main/profile-summary-card-output/2077/3-stats.svg)
 

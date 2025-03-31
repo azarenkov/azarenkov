@@ -3,10 +3,9 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Azarenkov/Azarenkov/main/profile-summary-card-output/2077/0-profile-details.svg" />
-  <img src="https://raw.githubusercontent.com/Azarenkov/Azarenkov/main/profile-summary-card-output/2077/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/Azarenkov/Azarenkov/main/profile-summary-card-output/2077/2-most-commit-language.svg" />
   <img src="https://raw.githubusercontent.com/Azarenkov/Azarenkov/main/profile-summary-card-output/2077/3-stats.svg" />
 </p>
-
 
 # Stack
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=blue)](#)

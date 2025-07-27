@@ -2,9 +2,9 @@
 <h3 align="center">Rust developer and Software Engineering student</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Azarenkov/Azarenkov/main/profile-summary-card-output/2077/0-profile-details.svg" />
-  <img src="https://raw.githubusercontent.com/azarenkov11/azarenkov11/main/profile-summary-card-output/2077/1-repos-per-language.svg" />
-  <img src="https://raw.githubusercontent.com/Azarenkov/Azarenkov/main/profile-summary-card-output/2077/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/azarenkov/azarenkov/main/profile-summary-card-output/2077/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/azarenkov/azarenkov/main/profile-summary-card-output/2077/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/azarenkov/azarenkov/main/profile-summary-card-output/2077/3-stats.svg" />
 </p>
 
 # Stack

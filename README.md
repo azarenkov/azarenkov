@@ -10,4 +10,4 @@
 # Programming languages
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=blue)](#)
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
+[![Python](https://img.shields.io/badge/python-3670A0.svg?&logo=python&logoColor=ffdd54)](#)
